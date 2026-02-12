@@ -1,0 +1,567 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>VCR | vintage car rally</title>
+    <link rel="icon" type="image/x-icon" href="icons.png">
+    <link href='https://fonts.googleapis.com/css?family=Alex Brush' rel='stylesheet'>
+    <meta name="viweport" content="width=device-width,intial-scale=1.0" />
+    <!-- nav bar -->
+    <style>
+        nav {
+            background-color: #867070;
+            height: 55px;
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        li {
+            float: left;
+        }
+
+            li a {
+                display: block;
+                color: #F5EBEB;
+                text-align: center;
+                padding: 16px;
+                text-decoration: none;
+                font-family: 'Shadows Into Light';
+                font-size: 15px;
+            }
+
+        li2 {
+            float: right;
+        }
+
+            li2 a {
+                display: block;
+                color: #F5EBEB;
+                text-align: center;
+                padding: 16px;
+                text-decoration: none;
+                font-family: 'Alex Brush';
+                font-size: 18px;
+            }
+    </style>
+    <nav>
+        <ul>
+            <li><a href="home page.html">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Home &nbsp; &nbsp; &nbsp; &nbsp;</a></li>
+            <li><a href="Register online.html">Register Online &nbsp; &nbsp; &nbsp; &nbsp; </a></li>
+            <li><a href="Our Drivers.html">Our drivers &nbsp; &nbsp; &nbsp; &nbsp;</a></li>
+            <li><a href="Q&A.html">Q&A &nbsp; &nbsp; &nbsp; &nbsp;</a></li>
+            <li><a href="About Us.html">About Us &nbsp; &nbsp; &nbsp; &nbsp;</a></li>
+            <li><a href="Contact Us.html">Contact Us &nbsp; &nbsp; &nbsp; &nbsp;  </a></li>
+            <li2><a href="home page.html">VCR | vintage car rally &nbsp; &nbsp; &nbsp; &nbsp;</a></li2>
+
+        </ul>
+    </nav>
+
+</head>
+<body>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            background-color: #867070
+        }
+
+        input[type=text], select, textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #F5EBEB;
+            border-radius: 20px;
+            resize: vertical;
+        }
+
+        label {
+            padding: 12px 12px 12px 0;
+            display: inline-block;
+        }
+
+        input[type=submit] {
+            background-color: #D5B4B4;
+            color: #F5EBEB;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            float: unset;
+        }
+
+            input[type=submit]:hover {
+                background-color: #D5B4B4;
+            }
+
+        .container {
+            border-radius: 0px;
+            background-color: #867070;
+            padding: 20px;
+            color: #F5EBEB
+        }
+
+        .col-1 {
+            float: left;
+            width: 20%;
+            margin-top: 6px;
+            display:block;
+            margin-bottom: 5px;
+
+        }
+
+        .col-2 {
+            float: revert;
+            width: 75%;
+            margin-top: 6px;
+            margin: 0px;
+        }
+
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        input[type="date"] {
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 20px;
+            float: revert;
+            width: 75%;
+            margin-top: 6px;
+            margin: 0px
+        }
+        input[type="radio"] {
+            margin-right: 5px;
+        }
+        input[type="submit"] {
+            float: right;
+            width: 10%;
+            margin-top: 6px;
+            margin: 0px;
+        }
+        p2 {
+            color: #F5EBEB;
+            font-family: 'Shadows Into Light';
+            font-size: 20px;
+            float: right;
+        }
+    </style>
+    <p2>
+        stage1= UAE
+        <br>
+        stage2= KSA
+        <br>
+        stage3= Turkey
+        <br>
+        stage4= Argentina
+        <br>
+        stage5= UK
+        <br>
+    </p2>
+    <div class="container">
+        <form action="/action_page.php">
+            <div class="row">
+                <div class="col-1">
+                    <label for="name">Name</label>
+                </div>
+                <div class="col-2">
+                    <input type="text" id="name" name="name" placeholder="Your name..">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1">
+                    <label for="email">Email</label>
+                </div>
+                <div class="col-2">
+                    <input type="text" id="Email" name="Email" placeholder="Your Email..">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1">
+                    <label for="Stages">Stages</label>
+                </div>
+                <div class="col-2">
+                    <select id="stages" name="stages">
+                        <option value="stage1">stage1</option>
+                        <option value="stage2">stage2</option>
+                        <option value="stage3">stage3</option>
+                        <option value="stage4">stage4</option>
+                        <option value="stage5">stages5</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1">
+                    <label for="Date">Register Date</label>
+                </div>
+                <div class="col-2">
+                    <input type="date" id="Date" name="Register Date" placeholder="dd/mm/yyyy">
+                </div>
+                <div class="col-1">
+                    <label for="Male">Male</label>
+                    <input type="radio" id="male" name="gender" value="Male">
+                </div>
+                <div class="col-1">
+                    <label for="Female">Female</label>
+                    <input type="radio" id="Female" name="gender" value="Female">
+                </div>
+                <div class="row">
+                    <input type="submit" value="Submit">
+                </div>
+</form>
+    </div>
+    <!-- footer -->
+    <style>
+        footer, #downFooter {
+            display: table;
+            float: none;
+            clear: both;
+            color: #F5EBEB !important;
+            background-color: #867070 !important;
+            width: 100%;
+            margin: 0;
+        }
+
+
+        #footerInfo {
+            display: inline-block;
+            float: left;
+            clear: left;
+            width: 31%;
+            margin: 2% 1% 2% 3%;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #F5EBEB !important;
+            background-color: #867070 !important;
+        }
+
+        #footerImg {
+            display: block;
+            float: left;
+            clear: left;
+            width: 100%;
+            margin: 0 0 4% 10%;
+        }
+
+            #footerImg img {
+                width: 40%;
+                object-fit: cover;
+            }
+
+        address {
+            color: #F5EBEB !important;
+            background-color: #867070 !important;
+        }
+
+        #footerInfo address p {
+            color: #F5EBEB;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 1.2em;
+            text-indent: 0;
+        }
+
+        #footerInfo p {
+            margin-left: 10%;
+            font-size: 1.2em;
+        }
+
+        #contactSection {
+            color: #F5EBEB !important;
+            background-color: #867070 !important;
+        }
+
+            #contactSection a {
+                display: block;
+                float: left;
+                clear: none;
+                color: #F5EBEB;
+                text-decoration: none;
+                margin: 0 0 0 10%;
+                font-size: 1.2em;
+                line-height: 1.3;
+            }
+
+        #footerTabs {
+            display: inline-table;
+            float: left;
+            clear: none;
+            width: 28%;
+            margin: 2% 0 0 0;
+            font-size: 1em;
+            font-weight: bold;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #F5EBEB !important;
+            background-color: #867070 !important;
+        }
+
+        #footerTabsAdd {
+            display: block;
+            float: none;
+            clear: both;
+            font-size: 1.5em;
+            margin: 0 0 8% 0;
+        }
+
+        #footerTabs a {
+            display: block;
+            text-align: left;
+            color: #F5EBEB;
+            text-decoration: none;
+            width: 100%;
+            margin-top: 3%;
+            padding: 1%;
+            font-size: 1.2em;
+        }
+
+            #footertabs a:hover {
+                color: #F5EBEB;
+                background-color: #867070;
+            }
+
+
+        #contactForm {
+            display: inline-table;
+            float: left;
+            clear: right;
+            margin: 4% 2% 2% 1%;
+            color: #E4D0D0 !important;
+            background-color: #867070 !important;
+        }
+
+            #contactForm h2 {
+                display: block;
+                float: left;
+                clear: right;
+                font-size: 2em;
+                font-family: cursive, "Comic Sans MS", "Bradley Hand ITC";
+            }
+
+        #WorkHour {
+            display: block;
+            width: 100%;
+            float: none;
+            clear: both;
+        }
+
+        .WorkHour {
+            display: block;
+            float: left;
+            clear: right;
+            font-size: 1em;
+            margin: 1% 0 1% 0;
+            border-bottom: 1px dashed #D5B4B4;
+        }
+
+
+
+
+
+        #downFooter {
+            display: table;
+            float: none;
+            clear: both;
+            width: 100%;
+            margin: 0;
+            height: 15%;
+            background-color: #2d2c2c !important;
+            color: #F5EBEB !important;
+        }
+
+        #copyRights {
+            display: block;
+            float: none;
+            clear: both;
+            width: 50%;
+            margin: 0 25% 0 25%;
+            color: #F5EBEB;
+            text-decoration: none;
+            text-align: center;
+        }
+
+            #copyRights p a {
+                color: #F5EBEB;
+                text-decoration: none;
+                font-weight: bolder;
+            }
+
+        #downFooterLinks {
+            display: block;
+            float: none;
+            clear: both;
+            width: 50%;
+            margin: 0 25% 0 25%;
+            color: #F5EBEB;
+            text-decoration: none;
+            font-weight: bolder;
+            text-align: center;
+            align-items: center;
+        }
+
+            #downFooterLinks a {
+                display: inline-block;
+                color: #F5EBEB;
+                text-align: center;
+                text-decoration: none;
+                font-weight: bolder;
+                line-height: 2;
+            }
+    </style>
+    <footer id="footer" style="color: #000000;">
+
+        <div id="footerInfo" style="color: #000000;">
+            <div id="footerImg">
+                <a href="home page.html"> <img src="6.jpeg"> </a>
+            </div>
+            <address id="addressInfo" style="color: #000000;">
+                <p>
+                    Address:
+                    <br>
+                    <br>
+                    UAE, Dubai.
+                    <br>
+                    KSA, Jadah.
+                    <br>
+                    Turkey, Istanbul.
+                    <br>
+                    Argentina, Buenos Aires.
+                    <br>
+                    UK, London.
+                </p>
+            </address>
+            <br>
+            <div id="contactSection" style="color: #E4D0D0;">
+                <p> Contact us:</p>
+                <a href="tel:00971562778947"> UAE: &nbsp; &nbsp;+971562778947</a>
+                <a href="tel:00966534005478"> KSA: &nbsp; &nbsp;+966534005478</a>
+                <a href="tel:00905376922708"> Turkey: &nbsp; &nbsp;+905376922708</a>
+                <a href="tel:+5411376922708"> Argentina: &nbsp; &nbsp;+54112778947</a>
+                <a href="tel:+448451234567"> UK: &nbsp; &nbsp;+448451234567</a>
+                <a href="hanenabs14@gmail.com"> Email: &nbsp; &nbsp;infocar@vintagecarrally.com</a>
+            </div>
+        </div>
+
+        <div id="footerTabs" style="color: #000000;"
+                <p id="footerTabsAdd"> Learn More:</p>
+                <a href="home page.html"> + Home</a>
+                <a href="Online Register.html"> + Register Online</a>
+                <a href="Our Drivers.html"> + Our Drivers</a>
+                <a href="Q&A.html"> + Q&A</a>
+                <a href="About Us.html"> + About us</a>
+                <a href="Contact Us.html"> + Contact us</a>
+            </div>
+        <div id="contactForm" style="color: #000000;">
+            <h2>Working Hours:</h2>
+            <div id="footerWorkHours">
+                <div class="WorkHour">
+                    <p class="days">Week Days &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 9:00 AM - 4:00 PM</p>
+                </div>
+                <br>
+                <div class="WorkHour">
+                    <p class="days">Weekends &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10:00 AM - 2:00 PM</p>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <!-- footer social media -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <style>
+            .fa {
+                padding: 15px;
+                font-size: 30px;
+                width: 30px;
+                text-align: center;
+                text-decoration: none;
+                margin: 5px 2px;
+            }
+
+                .fa:hover {
+                    opacity: 0.7;
+                }
+
+            .fa-facebook {
+                color: white;
+            }
+
+            .fa-whatsapp {
+                color: white;
+            }
+
+            .fa-instagram {
+                color: white;
+            }
+        </style>
+
+        <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+        <a href="https://web.whatsapp.com/" class="fa fa-whatsapp"></a>
+        <a href="https://instagram.com/d9_h1?igshid=YmMyMTA2M2Y=" class="fa fa-instagram"></a>
+    </footer>
+    <div id="downFooter" style="color: #D5B4B4;">
+        <div id="copyRight">
+            <p>&copy; 2023 <a href="https://www.instagram.com/d9_h1/?igshid=YmMyMTA2M2Y%3D" target="_blank">Diaa Abs</a> All Rights Reserved</p>
+        </div>
+        <div id="FooterLinks">
+            <a href="home page.html">Home</a>&nbsp; &nbsp; | &nbsp; &nbsp;<a href="About Us.html">About Us</a>&nbsp; &nbsp; | &nbsp; &nbsp;<a href="Contact Us.html">Contact Us</a>
+        </div>
+
+    </div>
+    <style>
+        #downFooter {
+            display: table;
+            float: none;
+            clear: both;
+            width: 100%;
+            margin: 0;
+            height: 15%;
+            background-color: #867070 !important;
+            color: #E4D0D0 !important;
+        }
+
+        #copyRight {
+            display: block;
+            float: none;
+            clear: both;
+            width: 50%;
+            margin: 0 25% 0 25%;
+            color: #F5EBEB;
+            text-decoration: none;
+            text-align: center;
+        }
+
+            #copyRight p a {
+                color: #E4D0D0;
+                text-decoration: none;
+                font-weight: bolder;
+            }
+
+        #FooterLinks {
+            display: block;
+            float: none;
+            clear: both;
+            width: 50%;
+            margin: 0 25% 0 25%;
+            color: #F5EBEB;
+            text-decoration: none;
+            font-weight: bolder;
+            text-align: center;
+            align-items: center;
+        }
+
+            #FooterLinks a {
+                display: inline-block;
+                color: #F5EBEB;
+                text-align: center;
+                text-decoration: none;
+                font-weight: bolder;
+                line-height: 2;
+            }
+    </style>
+
+</body>
+</html>
