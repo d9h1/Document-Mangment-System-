@@ -1,0 +1,32 @@
+C:\Users\hanen\OneDrive\Desktop\uni\uni level 5\level 5-2 semster\6. Final Assignment\200355_DiaaMuhammadAbs_BITP\200355_DiaaMuhammadAbs_BITP_Code\bin\Debug\200355_DiaaMuhammadAbs_BITP_Code.exe.config
+C:\Users\hanen\OneDrive\Desktop\uni\uni level 5\level 5-2 semster\6. Final Assignment\200355_DiaaMuhammadAbs_BITP\200355_DiaaMuhammadAbs_BITP_Code\bin\Debug\200355_DiaaMuhammadAbs_BITP_Code.exe
+C:\Users\hanen\OneDrive\Desktop\uni\uni level 5\level 5-2 semster\6. Final Assignment\200355_DiaaMuhammadAbs_BITP\200355_DiaaMuhammadAbs_BITP_Code\bin\Debug\200355_DiaaMuhammadAbs_BITP_Code.pdb
+C:\Users\hanen\OneDrive\Desktop\uni\uni level 5\level 5-2 semster\6. Final Assignment\200355_DiaaMuhammadAbs_BITP\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\200355_DiaaMuhammadAbs_BITP_Code.csproj.AssemblyReference.cache
+C:\Users\hanen\OneDrive\Desktop\uni\uni level 5\level 5-2 semster\6. Final Assignment\200355_DiaaMuhammadAbs_BITP\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\_200355_DiaaMuhammadAbs_BITP_Code.Properties.Resources.resources
+C:\Users\hanen\OneDrive\Desktop\uni\uni level 5\level 5-2 semster\6. Final Assignment\200355_DiaaMuhammadAbs_BITP\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\200355_DiaaMuhammadAbs_BITP_Code.csproj.GenerateResource.cache
+C:\Users\hanen\OneDrive\Desktop\uni\uni level 5\level 5-2 semster\6. Final Assignment\200355_DiaaMuhammadAbs_BITP\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\200355_DiaaMuhammadAbs_BITP_Code.csproj.CoreCompileInputs.cache
+C:\Users\hanen\OneDrive\Desktop\uni\uni level 5\level 5-2 semster\6. Final Assignment\200355_DiaaMuhammadAbs_BITP\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\200355_DiaaMuhammadAbs_BITP_Code.exe
+C:\Users\hanen\OneDrive\Desktop\uni\uni level 5\level 5-2 semster\6. Final Assignment\200355_DiaaMuhammadAbs_BITP\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\200355_DiaaMuhammadAbs_BITP_Code.pdb
+C:\Users\hanen\OneDrive\Desktop\uni\uni level 5\level 5-2 semster\6. Final Assignment\200355_DiaaMuhammadAbs_BITP\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\_200355_DiaaMuhammadAbs_BITP_Code.Login.resources
+C:\200355_DiaaMuhammadAbs_BITP_Code\bin\Debug\200355_DiaaMuhammadAbs_BITP_Code.exe.config
+C:\200355_DiaaMuhammadAbs_BITP_Code\bin\Debug\200355_DiaaMuhammadAbs_BITP_Code.exe
+C:\200355_DiaaMuhammadAbs_BITP_Code\bin\Debug\200355_DiaaMuhammadAbs_BITP_Code.pdb
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\200355_DiaaMuhammadAbs_BITP_Code.csproj.AssemblyReference.cache
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\_200355_DiaaMuhammadAbs_BITP_Code.Admin_Dashboard.resources
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\_200355_DiaaMuhammadAbs_BITP_Code.Properties.Resources.resources
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\200355_DiaaMuhammadAbs_BITP_Code.csproj.GenerateResource.cache
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\200355_DiaaMuhammadAbs_BITP_Code.csproj.CoreCompileInputs.cache
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\200355_DiaaMuhammadAbs_BITP_Code.exe
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\200355_DiaaMuhammadAbs_BITP_Code.pdb
+C:\200355_DiaaMuhammadAbs_BITP_Code\bin\Debug\Guna.UI2.dll
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\200355_DiaaMuhammadAbs_BITP_Code.csproj.CopyComplete
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\_200355_DiaaMuhammadAbs_BITP_Code.Dashboards.ProjectManager_Dashboard.resources
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\_200355_DiaaMuhammadAbs_BITP_Code.Dashboards.TechnicalTeam_Dashboard.resources
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\_200355_DiaaMuhammadAbs_BITP_Code.Dashboards.DocumentController_Dashboard.resources
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\_200355_DiaaMuhammadAbs_BITP_Code.Dashboards.CreateAccount.resources
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\_200355_DiaaMuhammadAbs_BITP_Code.Login.resources
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\_200355_DiaaMuhammadAbs_BITP_Code.Dashboards.ViewTechnicalTeam.resources
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\_200355_DiaaMuhammadAbs_BITP_Code.Dashboards.ViewDocuments.resources
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\_200355_DiaaMuhammadAbs_BITP_Code.Dashboards.AddEditeDCSubmittal.resources
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\_200355_DiaaMuhammadAbs_BITP_Code.Dashboards.AddEditeProject.resources
+C:\200355_DiaaMuhammadAbs_BITP_Code\obj\Debug\_200355_DiaaMuhammadAbs_BITP_Code.Dashboards.EditeUsers.resources
